@@ -1,0 +1,108 @@
+{
+    "signs_elements": {
+        "signs": [
+            {
+                "id": 1,
+                "name": "Aquarius",
+                "date": "20/01-18/02",
+                "trait": "Inteligent and original",
+                "images": "assets/img/aquarius1.png"
+            },
+            {
+                "id": 1,
+                "name": "Pisces",
+                "date": "19/02-20/03",
+                "trait": "Compassionate and artistic",
+                "images": "assets/img/pisces1.png"
+            },
+            {
+                "id": 1,
+                "name": "Aries",
+                "date": "21/03-19/04",
+                "trait": "Courageous and determined",
+                "images": "assets/img/aries1.png"
+            },
+            {
+                "id": 1,
+                "name": "Taurus",
+                "date": "20/04-20/05",
+                "trait": "Reliable and patient",
+                "images": "assets/img/taurus1.png"
+            },
+            {
+                "id": 1,
+                "name": "Gemini",
+                "date": "21/05-20/06",
+                "trait": "Curious and adaptable",
+                "images": "assets/img/gemini1.png"
+            },
+            {
+                "id": 1,
+                "name": "Cancer",
+                "date": "21/06-22/07",
+                "trait": "Tenacious and highly imaginative",
+                "images": "assets/img/cancer1.png"
+            },
+            {
+                "id": 1,
+                "name": "Leo",
+                "date": "23/07-22/08",
+                "trait": "Creative and passionate",
+                "images": "assets/img/leo1.png"
+            },
+            {
+                "id": 1,
+                "name": "Virgo",
+                "date": "23/08-22/09",
+                "trait": "Loyal and analytical",
+                "images": "assets/img/virgo1.png"
+            },
+            {
+                "id": 1,
+                "name": "Libra",
+                "date": "23/09-22/10",
+                "trait": "Cooperative and diplomatic",
+                "images": "assets/img/libra1.png"
+            },
+            {
+                "id": 1,
+                "name": "Scorpio",
+                "date": "23/10-21/11",
+                "trait": " Resourceful and brave",
+                "images": "assets/img/scorpio1.png"
+            },
+            {
+                "id": 1,
+                "name": "Sagittarius",
+                "date": "22/11-21/12",
+                "trait": "Generous and idealistic",
+                "images": "assets/img/sagittarius1.png"
+            },
+            {
+                "id": 1,
+                "name": "Capricorn",
+                "date": "22/12-19/01",
+                "trait": "Responsible and disciplined",
+                "images": "assets/img/capricorn1.png"
+            }
+        ],
+        "elements": [
+            {
+                "id": 1,
+                "elementName": "Earth"
+            },
+            {
+                "id": 2,
+                "elementName": "Water"
+            },
+            {
+                "id": 3,
+                "elementName": "Fire"
+            },
+            {
+                "id": 4,
+                "elementName": "Air"
+            }
+        ]
+    }
+}
