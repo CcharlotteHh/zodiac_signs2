@@ -37,7 +37,7 @@ function showData() {
 
 function nextButton() {
   current++;
-  if (current > data.length - 1) {
+  if (current > data.signs_elements.signs.length - 1) {
     current = 0;
   }
   update(current);
@@ -47,7 +47,7 @@ function nextButton() {
 function previousButton() {
   current--;
   if (current < 0) {
-    current = data.length - 1;
+    current = data.signs_elements.signs.length - 1;
   }
   update(current);
   console.log(current);

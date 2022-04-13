@@ -36,8 +36,10 @@ header {
   display: flex;
   list-style: none;
   align-items: center;
-  margin-left: 1%;
+  
 }
+
+
 
 main {
   height: 90%;
