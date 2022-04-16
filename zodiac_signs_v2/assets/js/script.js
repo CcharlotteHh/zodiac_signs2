@@ -15,6 +15,15 @@ xmlhttp.send();
 var current = 0;
 var data = null;
 
+const hamburger = document.querySelector(".hamburger");
+const navMenu = document.querySelector(".nav-menu");
+
+hamburger.addEventListener("click", () => {
+  hamburger.classList.toggle("active");
+  navMenu.classList.toggle("active");
+})
+
+
 function showData() {
   var previousBtn = document.getElementById("previousBtn");
   previousBtn.addEventListener("click", previousButton);
@@ -29,6 +38,10 @@ function showData() {
   var name = data.signs_elements['signs'][0].name;
   var date = data.signs_elements['signs'][0].date;
   var trait = data.signs_elements['signs'][0].trait;
+
+
+
+  
   
   nameContainer.innerHTML = `${name}`;
   dateContainer.innerHTML = `${date}`;

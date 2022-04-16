@@ -10,27 +10,43 @@
   <body>
     <div class="container">
       <header>
-        <ul class="nav_list">
-          <li class="logo">Zodiac Signs</li>
-          <li><a class="nav_item" href="earth.html">Earth signs</a></li>
-          <li><a class="nav_item" href="water.html">Water signs</a></li>
-          <li><a class="nav_item" href="fire.html">Fire signs</a></li>
-          <li><a class="nav_item" href="air.html">Air signs</a></li>
-         
-        </ul>
+        <nav class="navbar"><!--Logo-->
+          <a href="#" class="navbar-branding">ZODIAC CHART</a>
+
+          <ul class="nav-menu">
+            <li class="nav-item"> <!--nav and nav links-->
+              <a href="#" class="nav-link">Earth signs</a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">Water signs</a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">Fire signs</a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">Air signs</a>
+            </li>
+          </ul>
+          <!--Hamburger-->
+          <div class="hamburger">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+          </div>
+        </nav>
       </header>
       <main>
         <ul id="content" class="content">
           <button id="previousBtn" class="btn btn_previous">Previous</button>
-         <figure class="img_container">
-        <img src="" alt="" class="" id="sign_img">
-      </figure>
-      <div class="content_container">
-          <li id="nameContainer" class="sign-name">Name</li>
-          <li id="dateContainer"class="sign-date">date</li>
-          <li id="traitContainer" class="sign-characther">charactheristic</li>
-        </div>
-          <button id="nextBtn"class="btn btn_next">Next</button>
+          <figure class="img_container">
+            <img src="" alt="" class="" id="sign_img" />
+          </figure>
+          <div class="content_container">
+            <li id="nameContainer" class="sign-name">Name</li>
+            <li id="dateContainer" class="sign-date">date</li>
+            <li id="traitContainer" class="sign-characther">charactheristic</li>
+          </div>
+          <button id="nextBtn" class="btn btn_next">Next</button>
         </ul>
       </main>
     </div>

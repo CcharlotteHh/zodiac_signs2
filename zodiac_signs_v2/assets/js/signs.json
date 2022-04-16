@@ -2,21 +2,21 @@
     "signs_elements": {
         "signs": [
             {
-                "id": 1,
+                "id": 4,
                 "name": "Aquarius",
                 "date": "20/01-18/02",
                 "trait": "Inteligent and original",
                 "images": "assets/img/aquarius1.png"
             },
             {
-                "id": 1,
+                "id": 2,
                 "name": "Pisces",
                 "date": "19/02-20/03",
                 "trait": "Compassionate and artistic",
                 "images": "assets/img/pisces1.png"
             },
             {
-                "id": 1,
+                "id": 3,
                 "name": "Aries",
                 "date": "21/03-19/04",
                 "trait": "Courageous and determined",
@@ -30,21 +30,21 @@
                 "images": "assets/img/taurus1.png"
             },
             {
-                "id": 1,
+                "id": 4,
                 "name": "Gemini",
                 "date": "21/05-20/06",
                 "trait": "Curious and adaptable",
                 "images": "assets/img/gemini1.png"
             },
             {
-                "id": 1,
+                "id": 2,
                 "name": "Cancer",
                 "date": "21/06-22/07",
                 "trait": "Tenacious and highly imaginative",
                 "images": "assets/img/cancer1.png"
             },
             {
-                "id": 1,
+                "id": 3,
                 "name": "Leo",
                 "date": "23/07-22/08",
                 "trait": "Creative and passionate",
@@ -58,14 +58,14 @@
                 "images": "assets/img/virgo1.png"
             },
             {
-                "id": 1,
+                "id": 4,
                 "name": "Libra",
                 "date": "23/09-22/10",
                 "trait": "Cooperative and diplomatic",
                 "images": "assets/img/libra1.png"
             },
             {
-                "id": 1,
+                "id": 2,
                 "name": "Scorpio",
                 "date": "23/10-21/11",
                 "trait": " Resourceful and brave",
@@ -79,7 +79,7 @@
                 "images": "assets/img/sagittarius1.png"
             },
             {
-                "id": 1,
+                "id": 3,
                 "name": "Capricorn",
                 "date": "22/12-19/01",
                 "trait": "Responsible and disciplined",
